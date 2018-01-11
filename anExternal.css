@@ -1,0 +1,21 @@
+#rcorners1 {
+    border-radius: 25px;
+    background: purple;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+#floaty {
+    float: right;
+    background: green;
+    color: white;
+}
+
+h1 {
+    color: rebeccapurple;
+}
+
+p {
+    color: white;
+}
